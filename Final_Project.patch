@@ -1,0 +1,22 @@
+Index: .idea/Tic Tac Toe Exam Project.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/Tic Tac Toe Exam Project.iml	(date 1523283436188)
++++ .idea/Tic Tac Toe Exam Project.iml	(date 1523283436188)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="TestRunnerService">
++    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
++  </component>
++</module>
+\ No newline at end of file
